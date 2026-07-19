@@ -1,0 +1,4 @@
+git init: Khởi tạo 1 repo mới trên máy tính
+git add <file_name> : Đưa file đã thay đổi vào staging area
+git add . : Đưa tất cả các file mới hoặc đã thay đổi vào staging area 
+git commit -m “message” : tạo một commit từ các file trong staging area và lưu vào repository.
