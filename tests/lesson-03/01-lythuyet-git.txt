@@ -1,0 +1,8 @@
+git commit --amend;
+    Sửa commit message 
+git commit --amend -m”<message>”;
+    Thêm file và sửa commit message 
+git restore --staged <file>; 
+    Chuyển file từ staging area về working directory 
+git reset HEAD~1.
+    Đưa HEAD quay về commit trước đó 1 commit.
